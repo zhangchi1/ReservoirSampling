@@ -6,7 +6,7 @@ import random
 # =============================================================================
 # simple sampling 
 # =============================================================================
-
+    
 # randomly choose k elements from N size lists of elements, with each element
 # has a selected-probability k/n
 # @k: k must be less than size N
